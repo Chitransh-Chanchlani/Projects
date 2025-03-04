@@ -4,14 +4,15 @@ SELECT * FROM `awesome chocolates`.products;
 
 SELECT * FROM `awesome chocolates`.sales;
 
+SELECT * FROM `awesome chocolates`.people;
+
 Use awesome chocolates;
 
 SELECT * FROM sales 
 where saledate >= '2022-01-01'
 order by saledate;
 
--- 1. Print details of shipments (sales) where 
--- amounts are > 2,000 and boxes are <100?
+-- 1. Print details of shipments (sales) where amounts are > 2,000 and boxes are <100?
 
 Select SPID, amount, Boxes
 from Sales 
