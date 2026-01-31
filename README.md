@@ -47,7 +47,7 @@ The project follows a **star schema** design for optimal performance and clarity
 - Price Adjustment Parameter Table
 
  **Data Model Snapshot**  
-![Data Model](Images/Screenshot (7).png)
+![Data Model](Images\Data_Model_Snapshot.png)
 
 ---
 
@@ -69,7 +69,7 @@ High-level KPIs and business performance overview.
 - Monthly performance comparison
 
 
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](Images\Executive_Dashboard.png)
 
 ---
 
@@ -84,7 +84,7 @@ Focused analysis on customer behavior and value.
 - Dynamic customer selection logic
 
   
-![Customer Dashboard](Images/customer_dashboard.png)
+![Customer Dashboard](Images\Customer_Detail.png)
 
 ---
 
@@ -99,7 +99,7 @@ In-depth product performance and profitability analysis.
 - Dynamic metric selection
 
   
-![Product Dashboard](Images/product_dashboard.png)
+![Product Dashboard](Images\Product_Detail.png)
 
 ---
 
@@ -112,7 +112,7 @@ Visualizes sales performance across regions.
 - Pacific
 
 📸  
-![Map Dashboard](Images/map_dashboard.png)
+![Map Dashboard](Images\Map_Dashboard.png)
 
 ---
 
