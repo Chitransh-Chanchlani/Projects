@@ -1,6 +1,6 @@
 #  AdventureWorks Power BI Dashboard
 
-##  Project Overview
+## Overview
 This project is an end-to-end **business intelligence solution built using Microsoft Power BI** on the AdventureWorks dataset.  
 The dashboard provides actionable insights into **sales performance, profitability, customer behavior, product trends, and returns**, enabling stakeholders to make data-driven decisions.
 
